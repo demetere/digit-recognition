@@ -1,1 +1,1 @@
-# digit-recognition
+# MNIST Digit Recognition
